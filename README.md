@@ -1,5 +1,5 @@
 # Summary
-This project uses an arduino and servo motor to position a solar panel such that it is always following a source of light.
+This project uses an arduino and servo motor to position a solar panel such that it is always following a source of light. Check out this [demo](https://www.youtube.com/watch?v=HCxZ_Fg01gc&feature=youtu.be) of the solar panel in action.
 
 # Hardware
 The circuit schematic used for this project is as follows:
@@ -16,5 +16,3 @@ To build the chassis, two platforms of roughly equal size were made: one to cont
 
 Once assembled, the servo motor was inserted through one of the sides and attached to the platform containing the solar panel.
 ![Assembled](/images/assembled.jpg)
-
-Here's a [demo](https://www.youtube.com/watch?v=HCxZ_Fg01gc&feature=youtu.be) of the solar panel rotating to follow the light source.
